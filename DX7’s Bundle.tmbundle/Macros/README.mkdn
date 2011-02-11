@@ -1,0 +1,9 @@
+# Textmate Bundles
+
+### Strip Whitespaces Then Save.tmMacro
+
+This macro automatically removes your triling spaces before save a document.
+
+Original idea: [Christopher R. Murphy][mt]
+
+[mt]:http://blogobaggins.com/2009/03/31/waging-war-on-whitespace.html
